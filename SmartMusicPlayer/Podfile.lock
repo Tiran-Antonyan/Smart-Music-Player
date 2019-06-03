@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.0.1)
+  - MarqueeLabel/Swift (3.2.1)
+  - SDWebImage (5.0.3):
+    - SDWebImage/Core (= 5.0.3)
+  - SDWebImage/Core (5.0.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.0)
+  - MarqueeLabel/Swift
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - MarqueeLabel
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  MarqueeLabel: 2daf039bf916937c8a4c9adfc13577cc5e51b4ce
+  SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
+
+PODFILE CHECKSUM: 1ffe8cea640f743816b2c0ab44377adaff3b53a4
+
+COCOAPODS: 1.6.2
